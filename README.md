@@ -10,4 +10,4 @@ Once user signed up and/or signed in, user can add parks they visited. User can 
 https://tiffyyc.github.io/my-national-parks-client/
 
 ## ERD Diagram
-![ERD-diagram](ERD diagram.jpg)
+![erd_diagram](erd_diagram.jpg)
